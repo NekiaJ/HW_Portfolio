@@ -1,0 +1,70 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("ignasi_pattern_s.png");
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+
+}
+.wrapper{
+    margin: 80px auto;
+}
+.block{
+    background-color: #b1aaaa67;
+    padding: 30px;
+    margin-bottom: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+#logo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    
+
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color: grey;
+}
+.navbar{
+    background:rgb(91, 225, 230);
+    border: none;
+}
+
+.block{
+    padding: 20px;
+    margin: 20px;
+}
+
+.block_header{
+    margin-bottom: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4aaaa5;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#about_img{
+    float: left;
+    width: 200px;
+    margin: 0 20px 10px 0;
+    
+}
+/* contact page*/
+.submit-btn{
+    margin: 20px;
+    background-color: rgb(56, 165, 216);
+}
+
+#footer_nav{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    height: 8%;
+   
+}
+
+
+
